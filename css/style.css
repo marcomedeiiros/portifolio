@@ -7,10 +7,11 @@
 
 
 
-body, html {
+body,
+html {
     height: 100vh;
     width: 100h;
-    
+
 }
 
 body {
@@ -25,7 +26,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: -1; 
+    z-index: -1;
     background-color: #0161a5;
 }
 
@@ -256,17 +257,17 @@ section.Portifolio .flex {
     font-weight: 600;
     color: #fff;
     opacity: 0;
-    transition: .5s;       
+    transition: .5s;
 }
 
-.overlay a{
+.overlay a {
     text-decoration: none;
     color: #fff;
 }
 
 .overlay:hover {
     opacity: 1;
-    
+
 }
 
 footer {

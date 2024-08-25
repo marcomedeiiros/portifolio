@@ -256,11 +256,17 @@ section.Portifolio .flex {
     font-weight: 600;
     color: #fff;
     opacity: 0;
-    transition: .5s;
+    transition: .5s;       
+}
+
+.overlay a{
+    text-decoration: none;
+    color: #fff;
 }
 
 .overlay:hover {
     opacity: 1;
+    
 }
 
 footer {
